@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\bin\Debug\net6.0\oopsconcept.exe
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\bin\Debug\net6.0\oopsconcept.deps.json
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\bin\Debug\net6.0\oopsconcept.runtimeconfig.json
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\bin\Debug\net6.0\oopsconcept.dll
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\bin\Debug\net6.0\ref\oopsconcept.dll
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\bin\Debug\net6.0\oopsconcept.pdb
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.dll
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\ref\oopsconcept.dll
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.pdb
+C:\Users\ELCOT\source\repos\oopsconcept\oopsconcept\obj\Debug\net6.0\oopsconcept.genruntimeconfig.cache
